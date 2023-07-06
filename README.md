@@ -26,8 +26,9 @@ Multiple models, activation functions, and optimizers were tested and after tria
 
 ![image](https://github.com/esu75/Group_Project_4/assets/118146659/0eb183ff-c6ef-419e-8eae-6057004cd3c4)
 
-Key: 
+### Key: 
 
 EVS - explained_value_score
+
 MAE - mean_absolute_error
 
