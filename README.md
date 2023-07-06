@@ -26,4 +26,3 @@ Multiple models, activation functions, and optimizers were tested and after tria
 ![image](https://github.com/rvafaeis/project_4_ML_Fairfax_home_price/assets/120426753/37f7888b-f9f2-4c34-a637-c790b5582565)
 
 
-https://public.tableau.com/app/profile/raheleh.vafaei.saadi/viz/FairfaxVASFHomePrice/Sheet7?publish=yes
