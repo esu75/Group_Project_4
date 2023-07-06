@@ -23,7 +23,6 @@ The aim of our neural network is to create a ML model that can  predict house pr
 The data was split into test and train variables using sklearn to begin our prediction model. 
 
 Multiple models, activation functions, and optimizers were tested and after trial and error, the sequential model with an Early_Stopping method was the best performing model with highest r-squared value. The activation function was determined to be best as rectified linear unit (Relu) for each of the three layers in our model. Our output layer used a linear activation function and the best optimizer was determined to be rmsprop. The table shows how each of the models performed using accuracy metrics including r-squared values.
-![image](https://github.com/rvafaeis/project_4_ML_Fairfax_home_price/assets/120426753/37f7888b-f9f2-4c34-a637-c790b5582565)
 
 ![image](https://github.com/esu75/Group_Project_4/assets/118146659/0eb183ff-c6ef-419e-8eae-6057004cd3c4)
 
